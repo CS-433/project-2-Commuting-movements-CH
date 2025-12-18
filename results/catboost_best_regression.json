@@ -1,0 +1,5 @@
+{
+    "loss_function": "RMSE",
+    "verbose": 0,
+    "random_state": 42
+}
